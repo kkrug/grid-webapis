@@ -1,0 +1,16 @@
+{
+  "mailchimp": {
+    "endpoint": "https://us20.api.mailchimp.com/3.0",
+    "listId": "e545c8a0ad"
+  },
+  "firebase": {
+    "type": "service_account",
+    "project_id": "illo-news",
+    "client_email": "firebase-adminsdk-220hs@illo-news.iam.gserviceaccount.com",
+    "client_id": "107175765503636593977",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-220hs%40illo-news.iam.gserviceaccount.com"
+  }
+}

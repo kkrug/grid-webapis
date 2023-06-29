@@ -1,0 +1,54 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.21.4",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.3",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "express-validator": "5.3.1",
+    "firebase-admin": "^9.9.0",
+    "googleapis": "^73.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "morgan-body": "^2.4.7",
+    "nodemailer": "^6.7.5",
+    "pg": "^8.7.3",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+    "jest": "^27.2.1"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "controllers/*.js",
+      "services/*.js",
+      "models/*.js",
+      "middleware/*.js",
+      "helpers/*.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 5,
+        "functions": 25,
+        "lines": 25,
+        "statements": 25
+      }
+    }
+  }
+}

@@ -1,0 +1,1129 @@
+ {
+      "search_result": [
+        {
+          "_id": "Q4WIBDP6YJH6LMAGZV6VEE3W2I",
+          "taxonomy": {
+            "primary_section": {
+              "_id": "/infuence-trends",
+              "_website": "the-summit",
+              "type": "section",
+              "version": "0.6.0",
+              "name": "Influence Trends",
+              "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+              "path": "/infuence-trends",
+              "parent_id": "/",
+              "parent": {
+                "default": "/"
+              },
+              "additional_properties": {
+                "original": {
+                  "_id": "/infuence-trends",
+                  "site": {
+                    "site_title": "Influence Trends",
+                    "site_tagline": null,
+                    "site_about": null,
+                    "site_keywords": null,
+                    "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                    "pagebuilder_path_for_native_apps": null,
+                    "site_url": "/",
+                    "color": "#FF9D43"
+                  },
+                  "site_topper": {
+                    "site_logo_image": null
+                  },
+                  "social": {
+                    "twitter": null,
+                    "facebook": null,
+                    "rss": null,
+                    "instagram": null
+                  },
+                  "navigation": {
+                    "nav_title": "Influence Trends"
+                  },
+                  "_admin": {
+                    "alias_ids": [
+                      "/infuence-trends"
+                    ]
+                  },
+                  "_website": "the-summit",
+                  "name": "Influence Trends",
+                  "order": {
+                    "hamburger-menu": 1001,
+                    "links-bar": 1001,
+                    "default": 1001
+                  },
+                  "parent": {
+                    "default": "/",
+                    "hamburger-menu": "/",
+                    "links-bar": "/"
+                  },
+                  "ancestors": {
+                    "default": [
+                      
+                    ],
+                    "hamburger-menu": [
+                      "/"
+                    ],
+                    "links-bar": [
+                      "/"
+                    ]
+                  },
+                  "inactive": false,
+                  "node_type": "section"
+                }
+              }
+            },
+            "primary_site": {
+              "_id": "/infuence-trends",
+              "type": "site",
+              "version": "0.5.8",
+              "name": "Influence Trends",
+              "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+              "path": "/infuence-trends",
+              "parent_id": "/",
+              "additional_properties": {
+                "original": {
+                  "_id": "/infuence-trends",
+                  "site": {
+                    "site_title": "Influence Trends",
+                    "site_tagline": null,
+                    "site_about": null,
+                    "site_keywords": null,
+                    "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                    "pagebuilder_path_for_native_apps": null,
+                    "site_url": "/",
+                    "color": "#FF9D43"
+                  },
+                  "site_topper": {
+                    "site_logo_image": null
+                  },
+                  "social": {
+                    "twitter": null,
+                    "facebook": null,
+                    "rss": null,
+                    "instagram": null
+                  },
+                  "navigation": {
+                    "nav_title": "Influence Trends"
+                  },
+                  "_admin": {
+                    "alias_ids": [
+                      "/infuence-trends"
+                    ]
+                  },
+                  "name": "Influence Trends",
+                  "order": {
+                    "hamburger-menu": 1001,
+                    "links-bar": 1001,
+                    "default": 1001
+                  },
+                  "parent": {
+                    "default": "/",
+                    "hamburger-menu": "/",
+                    "links-bar": "/"
+                  },
+                  "ancestors": {
+                    "default": [
+                      
+                    ],
+                    "hamburger-menu": [
+                      "/"
+                    ],
+                    "links-bar": [
+                      "/"
+                    ]
+                  },
+                  "inactive": false
+                }
+              }
+            },
+            "sections": [
+              {
+                "_id": "/infuence-trends",
+                "_website": "the-summit",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "Influence Trends",
+                "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                "path": "/infuence-trends",
+                "parent_id": "/",
+                "parent": {
+                  "default": "/"
+                },
+                "additional_properties": {
+                  "original": {
+                    "_id": "/infuence-trends",
+                    "site": {
+                      "site_title": "Influence Trends",
+                      "site_tagline": null,
+                      "site_about": null,
+                      "site_keywords": null,
+                      "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                      "pagebuilder_path_for_native_apps": null,
+                      "site_url": "/",
+                      "color": "#FF9D43"
+                    },
+                    "site_topper": {
+                      "site_logo_image": null
+                    },
+                    "social": {
+                      "twitter": null,
+                      "facebook": null,
+                      "rss": null,
+                      "instagram": null
+                    },
+                    "navigation": {
+                      "nav_title": "Influence Trends"
+                    },
+                    "_admin": {
+                      "alias_ids": [
+                        "/infuence-trends"
+                      ]
+                    },
+                    "_website": "the-summit",
+                    "name": "Influence Trends",
+                    "order": {
+                      "hamburger-menu": 1001,
+                      "links-bar": 1001,
+                      "default": 1001
+                    },
+                    "parent": {
+                      "default": "/",
+                      "hamburger-menu": "/",
+                      "links-bar": "/"
+                    },
+                    "ancestors": {
+                      "default": [
+                        
+                      ],
+                      "hamburger-menu": [
+                        "/"
+                      ],
+                      "links-bar": [
+                        "/"
+                      ]
+                    },
+                    "inactive": false,
+                    "node_type": "section"
+                  }
+                },
+                "_website_section_id": "the-summit./infuence-trends"
+              }
+            ],
+            "sites": [
+              {
+                "_id": "/infuence-trends",
+                "type": "site",
+                "version": "0.5.8",
+                "name": "Influence Trends",
+                "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                "path": "/infuence-trends",
+                "parent_id": "/",
+                "additional_properties": {
+                  "original": {
+                    "_id": "/infuence-trends",
+                    "site": {
+                      "site_title": "Influence Trends",
+                      "site_tagline": null,
+                      "site_about": null,
+                      "site_keywords": null,
+                      "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                      "pagebuilder_path_for_native_apps": null,
+                      "site_url": "/",
+                      "color": "#FF9D43"
+                    },
+                    "site_topper": {
+                      "site_logo_image": null
+                    },
+                    "social": {
+                      "twitter": null,
+                      "facebook": null,
+                      "rss": null,
+                      "instagram": null
+                    },
+                    "navigation": {
+                      "nav_title": "Influence Trends"
+                    },
+                    "_admin": {
+                      "alias_ids": [
+                        "/infuence-trends"
+                      ]
+                    },
+                    "name": "Influence Trends",
+                    "order": {
+                      "hamburger-menu": 1001,
+                      "links-bar": 1001,
+                      "default": 1001
+                    },
+                    "parent": {
+                      "default": "/",
+                      "hamburger-menu": "/",
+                      "links-bar": "/"
+                    },
+                    "ancestors": {
+                      "default": [
+                        
+                      ],
+                      "hamburger-menu": [
+                        "/"
+                      ],
+                      "links-bar": [
+                        "/"
+                      ]
+                    },
+                    "inactive": false
+                  }
+                }
+              }
+            ],
+            "tags": [
+              {
+                "description": "military",
+                "slug": "military",
+                "text": "military"
+              }
+            ]
+          },          
+          "tags": [
+            {
+              "description": "coronavirus (covid-19)",
+              "slug": "coronavirus-covid-19",
+              "text": "coronavirus (covid-19)"
+            }
+          ],
+          "headlines": {
+            "basic": "Reopening America & the World"
+          },
+          "publish_date": "2021-06-07T12:06:40.661Z",
+          "img": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/sandbox.thesummit/AUQ2WVXTCBCEJPTVSGG4PYZCG4.jpg",
+            "resized_params": {
+              "84x56": "ROesm29SB7bIc3lu5qKpaxntm0I=filters:format(jpg):quality(70)/",
+              "105x70": "k7m8bg9QZh5p_yHK4ncEvlL6hTI=filters:format(jpg):quality(70)/",
+              "158x105": "foVYlGkxaGCvnagTmkUSP-VytCg=filters:format(jpg):quality(70)/",
+              "274x183": "j18zg3BoudVcaL5MW24jHZs0ke0=filters:format(jpg):quality(70)/",
+              "377x251": "RVdN1kQazQemb98fVx6yIATEkiE=filters:format(jpg):quality(70)/",
+              "400x267": "9qYUYvJHvPLQGEsdR-0mP9KM8ww=filters:format(jpg):quality(70)/",
+              "600x400": "jK576U4rxWicZzCGcvRkJCn9y5Q=filters:format(jpg):quality(70)/",
+              "768x512": "zth7tm9X_f-knhmM9jdniNH0aJg=filters:format(jpg):quality(70)/",
+              "800x533": "KdOoSIFcCPLXHsQGqGM44Tu4q9w=filters:format(jpg):quality(70)/",
+              "1024x683": "yWfIJ5D0UlRvgTujOGrwKBZ1TVU=filters:format(jpg):quality(70)/",
+              "1440x960": "_kTeWAbDtUfjyTZGvFk7lSzYlZ4=filters:format(jpg):quality(70)/",
+              "1600x1067": "LHWId_aRA7rybtxdtuBKtsHBHfk=filters:format(jpg):quality(70)/",
+              "84x63": "5e2rOJ2mrCcyNmS2zu7ETYX_0Sg=filters:format(jpg):quality(70)/",
+              "105x79": "D-2ioxxJgkg4tgxYFPgyZ9C8uGo=filters:format(jpg):quality(70)/",
+              "158x119": "fxjKf0VrZVkdujvr_EPAbpKsipk=filters:format(jpg):quality(70)/",
+              "274x206": "ZtMEsmadintPBelBO2QAv4hXZvk=filters:format(jpg):quality(70)/",
+              "377x283": "4pERhJbYWv3aEd65zglitbHE2OU=filters:format(jpg):quality(70)/",
+              "400x300": "aQ3MRbvdbjFn-kzVFYyiRYZyru0=filters:format(jpg):quality(70)/",
+              "600x450": "NbqnzX93L7tgfbTevP1smJyO-KY=filters:format(jpg):quality(70)/",
+              "768x576": "6j1Ix44nhnHOAJmRo9XBSeXfZcY=filters:format(jpg):quality(70)/",
+              "800x600": "R3mzj7ZKCnhLojphh9G0btSeGvM=filters:format(jpg):quality(70)/",
+              "1024x768": "zx48BnBIVyZuP4CtbV2-zwOjpDw=filters:format(jpg):quality(70)/",
+              "1440x1080": "D6AP3xzjiYcfHOmvMmarQBvK9ps=filters:format(jpg):quality(70)/",
+              "1600x1200": "e0e9uVRsBYmCCYHA8nlSuhLzv7g=filters:format(jpg):quality(70)/",
+              "84x47": "M31vMImkdTV_3umAx7Yvp1V7-Ac=filters:format(jpg):quality(70)/",
+              "105x59": "odQsKMuKy7UXYaX1aTxoulCsvxA=filters:format(jpg):quality(70)/",
+              "158x89": "nLE9bug8J7NRM-GA_ZrgC5vAOW4=filters:format(jpg):quality(70)/",
+              "274x154": "WqRzsxI4u7QKnUobOHK7UkbKSjw=filters:format(jpg):quality(70)/",
+              "377x212": "q9eST1GuZgEc9m3YupGbCxQoBgc=filters:format(jpg):quality(70)/",
+              "400x225": "AYeKZxqB2VMc2rGRjVq8L-qlpyc=filters:format(jpg):quality(70)/",
+              "600x338": "VOF4cEQiugM8VlsPiBo4A7LEAxA=filters:format(jpg):quality(70)/",
+              "768x432": "9jIlHdCLzGLUWcpmuvOL3Lf6Hok=filters:format(jpg):quality(70)/",
+              "800x450": "tfVl05-hRZoA77ECgKBdnSD-Ppg=filters:format(jpg):quality(70)/",
+              "1024x576": "izcWE1sufKZV0RQ3llGSqOzVJyc=filters:format(jpg):quality(70)/",
+              "1440x810": "77pYAbGWdi4wgfx8lTY-eYqmQE8=filters:format(jpg):quality(70)/",
+              "1600x900": "VS07b5-Byc4c2tKFgvMaXflME1A=filters:format(jpg):quality(70)/",
+              "84x84": "PAZzolbdz_n0bv8oyPN8VFXPVxo=filters:format(jpg):quality(70)/",
+              "105x105": "ExOBpud2aW9JtW6jYBXsYIy2Tmg=filters:format(jpg):quality(70)/",
+              "158x158": "WljbwvFZL45huWqxi8B7OzaamrA=filters:format(jpg):quality(70)/",
+              "274x274": "gGv00urKEHoNPXgfBFj5T5UHfW4=filters:format(jpg):quality(70)/",
+              "377x377": "SLdpzoI-uOn-aJdJgMZI9t5oRlI=filters:format(jpg):quality(70)/",
+              "400x400": "JqzduHMR2s3xSShnUZ7qaaN27Do=filters:format(jpg):quality(70)/",
+              "600x600": "EFOL2SR397ILPYzTtUU5FmEL9xI=filters:format(jpg):quality(70)/",
+              "768x768": "__hzF7pQJK3DRGqTczunmr0DprE=filters:format(jpg):quality(70)/",
+              "800x800": "_27OTveP-9P4ZHQOC1Y_DB7W5x4=filters:format(jpg):quality(70)/",
+              "1024x1024": "c9X2Yrg7IpTsLvlKS1ihXGZPWXU=filters:format(jpg):quality(70)/",
+              "1440x1440": "0vA3V3K6Dxcy7a0Gz-oSPH10FDo=filters:format(jpg):quality(70)/",
+              "1600x1600": "2isC08BPKGzF0jfEZhm6ESWxAeg=filters:format(jpg):quality(70)/",
+              "84x32": "8Ej-pnJlKJxmB7Bg27lJhH-t-s4=filters:format(jpg):quality(70)/",
+              "105x39": "IsPwxUk-_KguJOgsBJRQLZrCAbk=filters:format(jpg):quality(70)/",
+              "158x59": "DR1DYdDD2NEfCuJg3pslfMsyGZI=filters:format(jpg):quality(70)/",
+              "274x103": "12shX08NrXRAG_AfcBdJBM5ELdA=filters:format(jpg):quality(70)/",
+              "377x141": "JWTPRpHbg8r8mThjpEDo2AhDJ5g=filters:format(jpg):quality(70)/",
+              "400x150": "DAYxddBjseKf59QFgD9RwJNNijI=filters:format(jpg):quality(70)/",
+              "600x225": "b8A7zdgDL1g4yI1F7Ra6WSc97hY=filters:format(jpg):quality(70)/",
+              "768x288": "fVxFFjIifz_XCXS_844sgsZCwY0=filters:format(jpg):quality(70)/",
+              "800x300": "9B8g9qLKwcGUb7WqYquW0aXrBzA=filters:format(jpg):quality(70)/",
+              "1024x384": "M7MPLtayuwQzwrpH3U6Fy0_OQbA=filters:format(jpg):quality(70)/",
+              "1440x540": "DTC7K2wu5u1aLpLFCp4xIiRTpek=filters:format(jpg):quality(70)/",
+              "1600x600": "M7kcgyP5N0_e6Z2DfOoIIvAlmMA=filters:format(jpg):quality(70)/",
+              "84x0": "TOXiJWBf1lTv6qrmb9TFs4GSWBw=filters:format(jpg):quality(70)/",
+              "105x0": "QMCK0wheayNKWcueCBVtiNr4llc=filters:format(jpg):quality(70)/",
+              "158x0": "1cScxF6ov2IkChmiWVf6wQCwxzA=filters:format(jpg):quality(70)/",
+              "274x0": "8nOI1C4Az3yHSGFDtQEroLMOX18=filters:format(jpg):quality(70)/",
+              "377x0": "qnw-hvj6ZpjG0mU3BC0lMVxXEEA=filters:format(jpg):quality(70)/",
+              "400x0": "Aq5y83qITGLSNumKILWRdVk3KbE=filters:format(jpg):quality(70)/",
+              "600x0": "f3CD59q7Uhbt2pd8V7JE4_wimsQ=filters:format(jpg):quality(70)/",
+              "768x0": "Qmkp_5rBZaN0Tr5joeDabengyIc=filters:format(jpg):quality(70)/",
+              "800x0": "u-FNi5qw9VlB3cus8hPAgKvAxNI=filters:format(jpg):quality(70)/",
+              "1024x0": "S58VQ96jUNAvT_z6F9A_BMk07AU=filters:format(jpg):quality(70)/",
+              "1440x0": "7Y7QhumI_vptbc-ma2cnGdLIiQY=filters:format(jpg):quality(70)/",
+              "1600x0": "CNC1Tdw2u8PPxbQwQv6eNXGwMwY=filters:format(jpg):quality(70)/"
+            },
+            "resizerURL": "https://thesummit-the-summit-prod.cdn.arcpublishing.com/resizer"
+          }
+  
+        },
+        {
+          "_id": "ZZAB7GZ5RVFTJMW3BLJBVE2HN4",
+          "taxonomy": {
+            "primary_section": {
+              "_id": "/infuence-trends",
+              "_website": "the-summit",
+              "type": "section",
+              "version": "0.6.0",
+              "name": "Influence Trends",
+              "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+              "path": "/infuence-trends",
+              "parent_id": "/",
+              "parent": {
+                "default": "/"
+              },
+              "additional_properties": {
+                "original": {
+                  "_id": "/infuence-trends",
+                  "site": {
+                    "site_title": "Influence Trends",
+                    "site_tagline": null,
+                    "site_about": null,
+                    "site_keywords": null,
+                    "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                    "pagebuilder_path_for_native_apps": null,
+                    "site_url": "/",
+                    "color": "#FF9D43"
+                  },
+                  "site_topper": {
+                    "site_logo_image": null
+                  },
+                  "social": {
+                    "twitter": null,
+                    "facebook": null,
+                    "rss": null,
+                    "instagram": null
+                  },
+                  "navigation": {
+                    "nav_title": "Influence Trends"
+                  },
+                  "_admin": {
+                    "alias_ids": [
+                      "/infuence-trends"
+                    ]
+                  },
+                  "_website": "the-summit",
+                  "name": "Influence Trends",
+                  "order": {
+                    "hamburger-menu": 1001,
+                    "links-bar": 1001,
+                    "default": 1001
+                  },
+                  "parent": {
+                    "default": "/",
+                    "hamburger-menu": "/",
+                    "links-bar": "/"
+                  },
+                  "ancestors": {
+                    "default": [
+                      
+                    ],
+                    "hamburger-menu": [
+                      "/"
+                    ],
+                    "links-bar": [
+                      "/"
+                    ]
+                  },
+                  "inactive": false,
+                  "node_type": "section"
+                }
+              }
+            },
+            "primary_site": {
+              "_id": "/infuence-trends",
+              "type": "site",
+              "version": "0.5.8",
+              "name": "Influence Trends",
+              "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+              "path": "/infuence-trends",
+              "parent_id": "/",
+              "additional_properties": {
+                "original": {
+                  "_id": "/infuence-trends",
+                  "site": {
+                    "site_title": "Influence Trends",
+                    "site_tagline": null,
+                    "site_about": null,
+                    "site_keywords": null,
+                    "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                    "pagebuilder_path_for_native_apps": null,
+                    "site_url": "/",
+                    "color": "#FF9D43"
+                  },
+                  "site_topper": {
+                    "site_logo_image": null
+                  },
+                  "social": {
+                    "twitter": null,
+                    "facebook": null,
+                    "rss": null,
+                    "instagram": null
+                  },
+                  "navigation": {
+                    "nav_title": "Influence Trends"
+                  },
+                  "_admin": {
+                    "alias_ids": [
+                      "/infuence-trends"
+                    ]
+                  },
+                  "name": "Influence Trends",
+                  "order": {
+                    "hamburger-menu": 1001,
+                    "links-bar": 1001,
+                    "default": 1001
+                  },
+                  "parent": {
+                    "default": "/",
+                    "hamburger-menu": "/",
+                    "links-bar": "/"
+                  },
+                  "ancestors": {
+                    "default": [
+                      
+                    ],
+                    "hamburger-menu": [
+                      "/"
+                    ],
+                    "links-bar": [
+                      "/"
+                    ]
+                  },
+                  "inactive": false
+                }
+              }
+            },
+            "sections": [
+              {
+                "_id": "/infuence-trends",
+                "_website": "the-summit",
+                "type": "section",
+                "version": "0.6.0",
+                "name": "Influence Trends",
+                "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                "path": "/infuence-trends",
+                "parent_id": "/",
+                "parent": {
+                  "default": "/"
+                },
+                "additional_properties": {
+                  "original": {
+                    "_id": "/infuence-trends",
+                    "site": {
+                      "site_title": "Influence Trends",
+                      "site_tagline": null,
+                      "site_about": null,
+                      "site_keywords": null,
+                      "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                      "pagebuilder_path_for_native_apps": null,
+                      "site_url": "/",
+                      "color": "#FF9D43"
+                    },
+                    "site_topper": {
+                      "site_logo_image": null
+                    },
+                    "social": {
+                      "twitter": null,
+                      "facebook": null,
+                      "rss": null,
+                      "instagram": null
+                    },
+                    "navigation": {
+                      "nav_title": "Influence Trends"
+                    },
+                    "_admin": {
+                      "alias_ids": [
+                        "/infuence-trends"
+                      ]
+                    },
+                    "_website": "the-summit",
+                    "name": "Influence Trends",
+                    "order": {
+                      "hamburger-menu": 1001,
+                      "links-bar": 1001,
+                      "default": 1001
+                    },
+                    "parent": {
+                      "default": "/",
+                      "hamburger-menu": "/",
+                      "links-bar": "/"
+                    },
+                    "ancestors": {
+                      "default": [
+                        
+                      ],
+                      "hamburger-menu": [
+                        "/"
+                      ],
+                      "links-bar": [
+                        "/"
+                      ]
+                    },
+                    "inactive": false,
+                    "node_type": "section"
+                  }
+                },
+                "_website_section_id": "the-summit./infuence-trends"
+              }
+            ],
+            "sites": [
+              {
+                "_id": "/infuence-trends",
+                "type": "site",
+                "version": "0.5.8",
+                "name": "Influence Trends",
+                "description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                "path": "/infuence-trends",
+                "parent_id": "/",
+                "additional_properties": {
+                  "original": {
+                    "_id": "/infuence-trends",
+                    "site": {
+                      "site_title": "Influence Trends",
+                      "site_tagline": null,
+                      "site_about": null,
+                      "site_keywords": null,
+                      "site_description": "People are obsessed with trends because joining a trend means you're ... greatly influence the success or failure of a design-based campaign.",
+                      "pagebuilder_path_for_native_apps": null,
+                      "site_url": "/",
+                      "color": "#FF9D43"
+                    },
+                    "site_topper": {
+                      "site_logo_image": null
+                    },
+                    "social": {
+                      "twitter": null,
+                      "facebook": null,
+                      "rss": null,
+                      "instagram": null
+                    },
+                    "navigation": {
+                      "nav_title": "Influence Trends"
+                    },
+                    "_admin": {
+                      "alias_ids": [
+                        "/infuence-trends"
+                      ]
+                    },
+                    "name": "Influence Trends",
+                    "order": {
+                      "hamburger-menu": 1001,
+                      "links-bar": 1001,
+                      "default": 1001
+                    },
+                    "parent": {
+                      "default": "/",
+                      "hamburger-menu": "/",
+                      "links-bar": "/"
+                    },
+                    "ancestors": {
+                      "default": [
+                        
+                      ],
+                      "hamburger-menu": [
+                        "/"
+                      ],
+                      "links-bar": [
+                        "/"
+                      ]
+                    },
+                    "inactive": false
+                  }
+                }
+              }
+            ],
+            "tags": [
+              {
+                "description": "identity",
+                "slug": "identity",
+                "text": "identity"
+              }
+            ]
+          },
+          "tags": [
+            {
+              "description": "Politics",
+              "slug": "Politics",
+              "text": "Politics"
+            }
+          ],
+          "headlines": {
+            "basic": "Young Progressives Hope Biden Will Act On Climate Change, Gun Control, Student Debt"
+          },
+          "publish_date": "2021-06-07T12:06:40.661Z",
+          "img": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/sandbox.thesummit/AUQ2WVXTCBCEJPTVSGG4PYZCG4.jpg",
+            "resized_params": {
+              "84x56": "ROesm29SB7bIc3lu5qKpaxntm0I=filters:format(jpg):quality(70)/",
+              "105x70": "k7m8bg9QZh5p_yHK4ncEvlL6hTI=filters:format(jpg):quality(70)/",
+              "158x105": "foVYlGkxaGCvnagTmkUSP-VytCg=filters:format(jpg):quality(70)/",
+              "274x183": "j18zg3BoudVcaL5MW24jHZs0ke0=filters:format(jpg):quality(70)/",
+              "377x251": "RVdN1kQazQemb98fVx6yIATEkiE=filters:format(jpg):quality(70)/",
+              "400x267": "9qYUYvJHvPLQGEsdR-0mP9KM8ww=filters:format(jpg):quality(70)/",
+              "600x400": "jK576U4rxWicZzCGcvRkJCn9y5Q=filters:format(jpg):quality(70)/",
+              "768x512": "zth7tm9X_f-knhmM9jdniNH0aJg=filters:format(jpg):quality(70)/",
+              "800x533": "KdOoSIFcCPLXHsQGqGM44Tu4q9w=filters:format(jpg):quality(70)/",
+              "1024x683": "yWfIJ5D0UlRvgTujOGrwKBZ1TVU=filters:format(jpg):quality(70)/",
+              "1440x960": "_kTeWAbDtUfjyTZGvFk7lSzYlZ4=filters:format(jpg):quality(70)/",
+              "1600x1067": "LHWId_aRA7rybtxdtuBKtsHBHfk=filters:format(jpg):quality(70)/",
+              "84x63": "5e2rOJ2mrCcyNmS2zu7ETYX_0Sg=filters:format(jpg):quality(70)/",
+              "105x79": "D-2ioxxJgkg4tgxYFPgyZ9C8uGo=filters:format(jpg):quality(70)/",
+              "158x119": "fxjKf0VrZVkdujvr_EPAbpKsipk=filters:format(jpg):quality(70)/",
+              "274x206": "ZtMEsmadintPBelBO2QAv4hXZvk=filters:format(jpg):quality(70)/",
+              "377x283": "4pERhJbYWv3aEd65zglitbHE2OU=filters:format(jpg):quality(70)/",
+              "400x300": "aQ3MRbvdbjFn-kzVFYyiRYZyru0=filters:format(jpg):quality(70)/",
+              "600x450": "NbqnzX93L7tgfbTevP1smJyO-KY=filters:format(jpg):quality(70)/",
+              "768x576": "6j1Ix44nhnHOAJmRo9XBSeXfZcY=filters:format(jpg):quality(70)/",
+              "800x600": "R3mzj7ZKCnhLojphh9G0btSeGvM=filters:format(jpg):quality(70)/",
+              "1024x768": "zx48BnBIVyZuP4CtbV2-zwOjpDw=filters:format(jpg):quality(70)/",
+              "1440x1080": "D6AP3xzjiYcfHOmvMmarQBvK9ps=filters:format(jpg):quality(70)/",
+              "1600x1200": "e0e9uVRsBYmCCYHA8nlSuhLzv7g=filters:format(jpg):quality(70)/",
+              "84x47": "M31vMImkdTV_3umAx7Yvp1V7-Ac=filters:format(jpg):quality(70)/",
+              "105x59": "odQsKMuKy7UXYaX1aTxoulCsvxA=filters:format(jpg):quality(70)/",
+              "158x89": "nLE9bug8J7NRM-GA_ZrgC5vAOW4=filters:format(jpg):quality(70)/",
+              "274x154": "WqRzsxI4u7QKnUobOHK7UkbKSjw=filters:format(jpg):quality(70)/",
+              "377x212": "q9eST1GuZgEc9m3YupGbCxQoBgc=filters:format(jpg):quality(70)/",
+              "400x225": "AYeKZxqB2VMc2rGRjVq8L-qlpyc=filters:format(jpg):quality(70)/",
+              "600x338": "VOF4cEQiugM8VlsPiBo4A7LEAxA=filters:format(jpg):quality(70)/",
+              "768x432": "9jIlHdCLzGLUWcpmuvOL3Lf6Hok=filters:format(jpg):quality(70)/",
+              "800x450": "tfVl05-hRZoA77ECgKBdnSD-Ppg=filters:format(jpg):quality(70)/",
+              "1024x576": "izcWE1sufKZV0RQ3llGSqOzVJyc=filters:format(jpg):quality(70)/",
+              "1440x810": "77pYAbGWdi4wgfx8lTY-eYqmQE8=filters:format(jpg):quality(70)/",
+              "1600x900": "VS07b5-Byc4c2tKFgvMaXflME1A=filters:format(jpg):quality(70)/",
+              "84x84": "PAZzolbdz_n0bv8oyPN8VFXPVxo=filters:format(jpg):quality(70)/",
+              "105x105": "ExOBpud2aW9JtW6jYBXsYIy2Tmg=filters:format(jpg):quality(70)/",
+              "158x158": "WljbwvFZL45huWqxi8B7OzaamrA=filters:format(jpg):quality(70)/",
+              "274x274": "gGv00urKEHoNPXgfBFj5T5UHfW4=filters:format(jpg):quality(70)/",
+              "377x377": "SLdpzoI-uOn-aJdJgMZI9t5oRlI=filters:format(jpg):quality(70)/",
+              "400x400": "JqzduHMR2s3xSShnUZ7qaaN27Do=filters:format(jpg):quality(70)/",
+              "600x600": "EFOL2SR397ILPYzTtUU5FmEL9xI=filters:format(jpg):quality(70)/",
+              "768x768": "__hzF7pQJK3DRGqTczunmr0DprE=filters:format(jpg):quality(70)/",
+              "800x800": "_27OTveP-9P4ZHQOC1Y_DB7W5x4=filters:format(jpg):quality(70)/",
+              "1024x1024": "c9X2Yrg7IpTsLvlKS1ihXGZPWXU=filters:format(jpg):quality(70)/",
+              "1440x1440": "0vA3V3K6Dxcy7a0Gz-oSPH10FDo=filters:format(jpg):quality(70)/",
+              "1600x1600": "2isC08BPKGzF0jfEZhm6ESWxAeg=filters:format(jpg):quality(70)/",
+              "84x32": "8Ej-pnJlKJxmB7Bg27lJhH-t-s4=filters:format(jpg):quality(70)/",
+              "105x39": "IsPwxUk-_KguJOgsBJRQLZrCAbk=filters:format(jpg):quality(70)/",
+              "158x59": "DR1DYdDD2NEfCuJg3pslfMsyGZI=filters:format(jpg):quality(70)/",
+              "274x103": "12shX08NrXRAG_AfcBdJBM5ELdA=filters:format(jpg):quality(70)/",
+              "377x141": "JWTPRpHbg8r8mThjpEDo2AhDJ5g=filters:format(jpg):quality(70)/",
+              "400x150": "DAYxddBjseKf59QFgD9RwJNNijI=filters:format(jpg):quality(70)/",
+              "600x225": "b8A7zdgDL1g4yI1F7Ra6WSc97hY=filters:format(jpg):quality(70)/",
+              "768x288": "fVxFFjIifz_XCXS_844sgsZCwY0=filters:format(jpg):quality(70)/",
+              "800x300": "9B8g9qLKwcGUb7WqYquW0aXrBzA=filters:format(jpg):quality(70)/",
+              "1024x384": "M7MPLtayuwQzwrpH3U6Fy0_OQbA=filters:format(jpg):quality(70)/",
+              "1440x540": "DTC7K2wu5u1aLpLFCp4xIiRTpek=filters:format(jpg):quality(70)/",
+              "1600x600": "M7kcgyP5N0_e6Z2DfOoIIvAlmMA=filters:format(jpg):quality(70)/",
+              "84x0": "TOXiJWBf1lTv6qrmb9TFs4GSWBw=filters:format(jpg):quality(70)/",
+              "105x0": "QMCK0wheayNKWcueCBVtiNr4llc=filters:format(jpg):quality(70)/",
+              "158x0": "1cScxF6ov2IkChmiWVf6wQCwxzA=filters:format(jpg):quality(70)/",
+              "274x0": "8nOI1C4Az3yHSGFDtQEroLMOX18=filters:format(jpg):quality(70)/",
+              "377x0": "qnw-hvj6ZpjG0mU3BC0lMVxXEEA=filters:format(jpg):quality(70)/",
+              "400x0": "Aq5y83qITGLSNumKILWRdVk3KbE=filters:format(jpg):quality(70)/",
+              "600x0": "f3CD59q7Uhbt2pd8V7JE4_wimsQ=filters:format(jpg):quality(70)/",
+              "768x0": "Qmkp_5rBZaN0Tr5joeDabengyIc=filters:format(jpg):quality(70)/",
+              "800x0": "u-FNi5qw9VlB3cus8hPAgKvAxNI=filters:format(jpg):quality(70)/",
+              "1024x0": "S58VQ96jUNAvT_z6F9A_BMk07AU=filters:format(jpg):quality(70)/",
+              "1440x0": "7Y7QhumI_vptbc-ma2cnGdLIiQY=filters:format(jpg):quality(70)/",
+              "1600x0": "CNC1Tdw2u8PPxbQwQv6eNXGwMwY=filters:format(jpg):quality(70)/"
+            },
+            "resizerURL": "https://thesummit-the-summit-prod.cdn.arcpublishing.com/resizer"
+          }  
+        },
+        {
+            "_id": "QMP22RGD2VDCJABNV434CXRLVQ",
+            "taxonomy": {
+                "primary_section": {
+                  "_id": "/global-economy",
+                  "_website": "the-summit",
+                  "type": "section",
+                  "version": "0.6.0",
+                  "name": "Global Economy",
+                  "description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                  "path": "/global-economy",
+                  "parent_id": "/",
+                  "parent": {
+                    "default": "/"
+                  },
+                  "additional_properties": {
+                    "original": {
+                      "_id": "/global-economy",
+                      "site": {
+                        "site_title": "Global Economy",
+                        "site_tagline": null,
+                        "site_about": null,
+                        "site_keywords": null,
+                        "site_description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                        "pagebuilder_path_for_native_apps": null,
+                        "site_url": null,
+                        "color": "#8095FF"
+                      },
+                      "site_topper": {
+                        "site_logo_image": null
+                      },
+                      "social": {
+                        "twitter": null,
+                        "facebook": null,
+                        "rss": null,
+                        "instagram": null
+                      },
+                      "navigation": {
+                        "nav_title": "Global Economy"
+                      },
+                      "_admin": {
+                        "alias_ids": [
+                          "/global-economy"
+                        ]
+                      },
+                      "_website": "the-summit",
+                      "name": "Global Economy",
+                      "order": {
+                        "hamburger-menu": 1002,
+                        "links-bar": 1002,
+                        "default": 1002
+                      },
+                      "parent": {
+                        "default": "/",
+                        "hamburger-menu": "/",
+                        "links-bar": "/"
+                      },
+                      "ancestors": {
+                        "default": [
+                          
+                        ],
+                        "hamburger-menu": [
+                          "/"
+                        ],
+                        "links-bar": [
+                          "/"
+                        ]
+                      },
+                      "inactive": false,
+                      "node_type": "section"
+                    }
+                  }
+                },
+                "primary_site": {
+                  "_id": "/global-economy",
+                  "type": "site",
+                  "version": "0.5.8",
+                  "name": "Global Economy",
+                  "description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                  "path": "/global-economy",
+                  "parent_id": "/",
+                  "additional_properties": {
+                    "original": {
+                      "_id": "/global-economy",
+                      "site": {
+                        "site_title": "Global Economy",
+                        "site_tagline": null,
+                        "site_about": null,
+                        "site_keywords": null,
+                        "site_description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                        "pagebuilder_path_for_native_apps": null,
+                        "site_url": null,
+                        "color": "#8095FF"
+                      },
+                      "site_topper": {
+                        "site_logo_image": null
+                      },
+                      "social": {
+                        "twitter": null,
+                        "facebook": null,
+                        "rss": null,
+                        "instagram": null
+                      },
+                      "navigation": {
+                        "nav_title": "Global Economy"
+                      },
+                      "_admin": {
+                        "alias_ids": [
+                          "/global-economy"
+                        ]
+                      },
+                      "name": "Global Economy",
+                      "order": {
+                        "hamburger-menu": 1002,
+                        "links-bar": 1002,
+                        "default": 1002
+                      },
+                      "parent": {
+                        "default": "/",
+                        "hamburger-menu": "/",
+                        "links-bar": "/"
+                      },
+                      "ancestors": {
+                        "default": [
+                          
+                        ],
+                        "hamburger-menu": [
+                          "/"
+                        ],
+                        "links-bar": [
+                          "/"
+                        ]
+                      },
+                      "inactive": false
+                    }
+                  }
+                },
+                "sections": [
+                  {
+                    "_id": "/global-economy",
+                    "_website": "the-summit",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Global Economy",
+                    "description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                    "path": "/global-economy",
+                    "parent_id": "/",
+                    "parent": {
+                      "default": "/"
+                    },
+                    "additional_properties": {
+                      "original": {
+                        "_id": "/global-economy",
+                        "site": {
+                          "site_title": "Global Economy",
+                          "site_tagline": null,
+                          "site_about": null,
+                          "site_keywords": null,
+                          "site_description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                          "pagebuilder_path_for_native_apps": null,
+                          "site_url": null,
+                          "color": "#8095FF"
+                        },
+                        "site_topper": {
+                          "site_logo_image": null
+                        },
+                        "social": {
+                          "twitter": null,
+                          "facebook": null,
+                          "rss": null,
+                          "instagram": null
+                        },
+                        "navigation": {
+                          "nav_title": "Global Economy"
+                        },
+                        "_admin": {
+                          "alias_ids": [
+                            "/global-economy"
+                          ]
+                        },
+                        "_website": "the-summit",
+                        "name": "Global Economy",
+                        "order": {
+                          "hamburger-menu": 1002,
+                          "links-bar": 1002,
+                          "default": 1002
+                        },
+                        "parent": {
+                          "default": "/",
+                          "hamburger-menu": "/",
+                          "links-bar": "/"
+                        },
+                        "ancestors": {
+                          "default": [
+                            
+                          ],
+                          "hamburger-menu": [
+                            "/"
+                          ],
+                          "links-bar": [
+                            "/"
+                          ]
+                        },
+                        "inactive": false,
+                        "node_type": "section"
+                      }
+                    },
+                    "_website_section_id": "the-summit./global-economy"
+                  }
+                ],
+                "sites": [
+                  {
+                    "_id": "/global-economy",
+                    "type": "site",
+                    "version": "0.5.8",
+                    "name": "Global Economy",
+                    "description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                    "path": "/global-economy",
+                    "parent_id": "/",
+                    "additional_properties": {
+                      "original": {
+                        "_id": "/global-economy",
+                        "site": {
+                          "site_title": "Global Economy",
+                          "site_tagline": null,
+                          "site_about": null,
+                          "site_keywords": null,
+                          "site_description": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. ... It refers to the exchange of goods and services between different countries, and it has also helped countries to specialise in products which they have a comparative advantage in.",
+                          "pagebuilder_path_for_native_apps": null,
+                          "site_url": null,
+                          "color": "#8095FF"
+                        },
+                        "site_topper": {
+                          "site_logo_image": null
+                        },
+                        "social": {
+                          "twitter": null,
+                          "facebook": null,
+                          "rss": null,
+                          "instagram": null
+                        },
+                        "navigation": {
+                          "nav_title": "Global Economy"
+                        },
+                        "_admin": {
+                          "alias_ids": [
+                            "/global-economy"
+                          ]
+                        },
+                        "name": "Global Economy",
+                        "order": {
+                          "hamburger-menu": 1002,
+                          "links-bar": 1002,
+                          "default": 1002
+                        },
+                        "parent": {
+                          "default": "/",
+                          "hamburger-menu": "/",
+                          "links-bar": "/"
+                        },
+                        "ancestors": {
+                          "default": [
+                            
+                          ],
+                          "hamburger-menu": [
+                            "/"
+                          ],
+                          "links-bar": [
+                            "/"
+                          ]
+                        },
+                        "inactive": false
+                      }
+                    }
+                  }
+                ],
+                "tags": [
+                  {
+                    "description": "racism",
+                    "slug": "racism",
+                    "text": "racism"
+                  }
+                ]
+              },
+          "tags": [
+            {
+              "description": "Politics",
+              "slug": "Politics",
+              "text": "Politics"
+            }
+          ],
+          "headlines": {
+            "basic": "Progressives Gear Up For Broad New Push On Climate Action"
+          },
+          "publish_date": "2021-06-07T12:06:40.661Z",
+          "img": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/sandbox.thesummit/AUQ2WVXTCBCEJPTVSGG4PYZCG4.jpg",
+            "resized_params": {
+              "84x56": "ROesm29SB7bIc3lu5qKpaxntm0I=filters:format(jpg):quality(70)/",
+              "105x70": "k7m8bg9QZh5p_yHK4ncEvlL6hTI=filters:format(jpg):quality(70)/",
+              "158x105": "foVYlGkxaGCvnagTmkUSP-VytCg=filters:format(jpg):quality(70)/",
+              "274x183": "j18zg3BoudVcaL5MW24jHZs0ke0=filters:format(jpg):quality(70)/",
+              "377x251": "RVdN1kQazQemb98fVx6yIATEkiE=filters:format(jpg):quality(70)/",
+              "400x267": "9qYUYvJHvPLQGEsdR-0mP9KM8ww=filters:format(jpg):quality(70)/",
+              "600x400": "jK576U4rxWicZzCGcvRkJCn9y5Q=filters:format(jpg):quality(70)/",
+              "768x512": "zth7tm9X_f-knhmM9jdniNH0aJg=filters:format(jpg):quality(70)/",
+              "800x533": "KdOoSIFcCPLXHsQGqGM44Tu4q9w=filters:format(jpg):quality(70)/",
+              "1024x683": "yWfIJ5D0UlRvgTujOGrwKBZ1TVU=filters:format(jpg):quality(70)/",
+              "1440x960": "_kTeWAbDtUfjyTZGvFk7lSzYlZ4=filters:format(jpg):quality(70)/",
+              "1600x1067": "LHWId_aRA7rybtxdtuBKtsHBHfk=filters:format(jpg):quality(70)/",
+              "84x63": "5e2rOJ2mrCcyNmS2zu7ETYX_0Sg=filters:format(jpg):quality(70)/",
+              "105x79": "D-2ioxxJgkg4tgxYFPgyZ9C8uGo=filters:format(jpg):quality(70)/",
+              "158x119": "fxjKf0VrZVkdujvr_EPAbpKsipk=filters:format(jpg):quality(70)/",
+              "274x206": "ZtMEsmadintPBelBO2QAv4hXZvk=filters:format(jpg):quality(70)/",
+              "377x283": "4pERhJbYWv3aEd65zglitbHE2OU=filters:format(jpg):quality(70)/",
+              "400x300": "aQ3MRbvdbjFn-kzVFYyiRYZyru0=filters:format(jpg):quality(70)/",
+              "600x450": "NbqnzX93L7tgfbTevP1smJyO-KY=filters:format(jpg):quality(70)/",
+              "768x576": "6j1Ix44nhnHOAJmRo9XBSeXfZcY=filters:format(jpg):quality(70)/",
+              "800x600": "R3mzj7ZKCnhLojphh9G0btSeGvM=filters:format(jpg):quality(70)/",
+              "1024x768": "zx48BnBIVyZuP4CtbV2-zwOjpDw=filters:format(jpg):quality(70)/",
+              "1440x1080": "D6AP3xzjiYcfHOmvMmarQBvK9ps=filters:format(jpg):quality(70)/",
+              "1600x1200": "e0e9uVRsBYmCCYHA8nlSuhLzv7g=filters:format(jpg):quality(70)/",
+              "84x47": "M31vMImkdTV_3umAx7Yvp1V7-Ac=filters:format(jpg):quality(70)/",
+              "105x59": "odQsKMuKy7UXYaX1aTxoulCsvxA=filters:format(jpg):quality(70)/",
+              "158x89": "nLE9bug8J7NRM-GA_ZrgC5vAOW4=filters:format(jpg):quality(70)/",
+              "274x154": "WqRzsxI4u7QKnUobOHK7UkbKSjw=filters:format(jpg):quality(70)/",
+              "377x212": "q9eST1GuZgEc9m3YupGbCxQoBgc=filters:format(jpg):quality(70)/",
+              "400x225": "AYeKZxqB2VMc2rGRjVq8L-qlpyc=filters:format(jpg):quality(70)/",
+              "600x338": "VOF4cEQiugM8VlsPiBo4A7LEAxA=filters:format(jpg):quality(70)/",
+              "768x432": "9jIlHdCLzGLUWcpmuvOL3Lf6Hok=filters:format(jpg):quality(70)/",
+              "800x450": "tfVl05-hRZoA77ECgKBdnSD-Ppg=filters:format(jpg):quality(70)/",
+              "1024x576": "izcWE1sufKZV0RQ3llGSqOzVJyc=filters:format(jpg):quality(70)/",
+              "1440x810": "77pYAbGWdi4wgfx8lTY-eYqmQE8=filters:format(jpg):quality(70)/",
+              "1600x900": "VS07b5-Byc4c2tKFgvMaXflME1A=filters:format(jpg):quality(70)/",
+              "84x84": "PAZzolbdz_n0bv8oyPN8VFXPVxo=filters:format(jpg):quality(70)/",
+              "105x105": "ExOBpud2aW9JtW6jYBXsYIy2Tmg=filters:format(jpg):quality(70)/",
+              "158x158": "WljbwvFZL45huWqxi8B7OzaamrA=filters:format(jpg):quality(70)/",
+              "274x274": "gGv00urKEHoNPXgfBFj5T5UHfW4=filters:format(jpg):quality(70)/",
+              "377x377": "SLdpzoI-uOn-aJdJgMZI9t5oRlI=filters:format(jpg):quality(70)/",
+              "400x400": "JqzduHMR2s3xSShnUZ7qaaN27Do=filters:format(jpg):quality(70)/",
+              "600x600": "EFOL2SR397ILPYzTtUU5FmEL9xI=filters:format(jpg):quality(70)/",
+              "768x768": "__hzF7pQJK3DRGqTczunmr0DprE=filters:format(jpg):quality(70)/",
+              "800x800": "_27OTveP-9P4ZHQOC1Y_DB7W5x4=filters:format(jpg):quality(70)/",
+              "1024x1024": "c9X2Yrg7IpTsLvlKS1ihXGZPWXU=filters:format(jpg):quality(70)/",
+              "1440x1440": "0vA3V3K6Dxcy7a0Gz-oSPH10FDo=filters:format(jpg):quality(70)/",
+              "1600x1600": "2isC08BPKGzF0jfEZhm6ESWxAeg=filters:format(jpg):quality(70)/",
+              "84x32": "8Ej-pnJlKJxmB7Bg27lJhH-t-s4=filters:format(jpg):quality(70)/",
+              "105x39": "IsPwxUk-_KguJOgsBJRQLZrCAbk=filters:format(jpg):quality(70)/",
+              "158x59": "DR1DYdDD2NEfCuJg3pslfMsyGZI=filters:format(jpg):quality(70)/",
+              "274x103": "12shX08NrXRAG_AfcBdJBM5ELdA=filters:format(jpg):quality(70)/",
+              "377x141": "JWTPRpHbg8r8mThjpEDo2AhDJ5g=filters:format(jpg):quality(70)/",
+              "400x150": "DAYxddBjseKf59QFgD9RwJNNijI=filters:format(jpg):quality(70)/",
+              "600x225": "b8A7zdgDL1g4yI1F7Ra6WSc97hY=filters:format(jpg):quality(70)/",
+              "768x288": "fVxFFjIifz_XCXS_844sgsZCwY0=filters:format(jpg):quality(70)/",
+              "800x300": "9B8g9qLKwcGUb7WqYquW0aXrBzA=filters:format(jpg):quality(70)/",
+              "1024x384": "M7MPLtayuwQzwrpH3U6Fy0_OQbA=filters:format(jpg):quality(70)/",
+              "1440x540": "DTC7K2wu5u1aLpLFCp4xIiRTpek=filters:format(jpg):quality(70)/",
+              "1600x600": "M7kcgyP5N0_e6Z2DfOoIIvAlmMA=filters:format(jpg):quality(70)/",
+              "84x0": "TOXiJWBf1lTv6qrmb9TFs4GSWBw=filters:format(jpg):quality(70)/",
+              "105x0": "QMCK0wheayNKWcueCBVtiNr4llc=filters:format(jpg):quality(70)/",
+              "158x0": "1cScxF6ov2IkChmiWVf6wQCwxzA=filters:format(jpg):quality(70)/",
+              "274x0": "8nOI1C4Az3yHSGFDtQEroLMOX18=filters:format(jpg):quality(70)/",
+              "377x0": "qnw-hvj6ZpjG0mU3BC0lMVxXEEA=filters:format(jpg):quality(70)/",
+              "400x0": "Aq5y83qITGLSNumKILWRdVk3KbE=filters:format(jpg):quality(70)/",
+              "600x0": "f3CD59q7Uhbt2pd8V7JE4_wimsQ=filters:format(jpg):quality(70)/",
+              "768x0": "Qmkp_5rBZaN0Tr5joeDabengyIc=filters:format(jpg):quality(70)/",
+              "800x0": "u-FNi5qw9VlB3cus8hPAgKvAxNI=filters:format(jpg):quality(70)/",
+              "1024x0": "S58VQ96jUNAvT_z6F9A_BMk07AU=filters:format(jpg):quality(70)/",
+              "1440x0": "7Y7QhumI_vptbc-ma2cnGdLIiQY=filters:format(jpg):quality(70)/",
+              "1600x0": "CNC1Tdw2u8PPxbQwQv6eNXGwMwY=filters:format(jpg):quality(70)/"
+            },
+            "resizerURL": "https://thesummit-the-summit-prod.cdn.arcpublishing.com/resizer"
+          }
+  
+        }
+      ]
+    }
+  
